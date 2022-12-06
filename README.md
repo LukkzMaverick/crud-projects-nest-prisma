@@ -12,7 +12,7 @@
     npx migrate dev
     npm run start:dev
     
-    Em outra aba
+Em outra aba
     
     cd front-end
     npm start
