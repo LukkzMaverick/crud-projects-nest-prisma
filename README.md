@@ -7,6 +7,7 @@
 
 ## Getting Started
 
+    git clone https://github.com/LukkzMaverick/crud-projects-nest-prisma.git
     docker-compose up -d  
     cd node
     npx migrate dev
