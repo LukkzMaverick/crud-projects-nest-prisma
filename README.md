@@ -11,8 +11,8 @@
     cd crud-projects-nest-prisma
     docker-compose up -d  
     cd node
-    npx migrate dev
     npm install
+    npx migrate dev
     npm run start:dev
     
 Em outra aba
