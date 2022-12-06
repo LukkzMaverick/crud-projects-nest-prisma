@@ -21,5 +21,4 @@ Em outra aba
     npm install
     npm start
     
-
-## Configuração Inicial
+Agora é só acessar http://localhost:3000
