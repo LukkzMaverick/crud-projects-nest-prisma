@@ -11,11 +11,13 @@
     docker-compose up -d  
     cd node
     npx migrate dev
+    npm install
     npm run start:dev
     
 Em outra aba
     
     cd front-end
+    npm install
     npm start
     
 
