@@ -1,6 +1,6 @@
 # crud-projects-nest-prisma
 
-# Pré-Requisitos
+# Requirements
 
  - [Node JS](https://nodejs.org/en/)
  - [Docker-Compose](https://docs.docker.com/compose/install/)
@@ -15,10 +15,10 @@
     npx migrate dev
     npm run start:dev
     
-Em outra aba
+In other tab
     
     cd front-end
     npm install
     npm start
     
-Agora é só acessar http://localhost:3000
+Now you need access http://localhost:3000
